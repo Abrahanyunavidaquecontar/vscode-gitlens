@@ -2,9 +2,9 @@ name: NodeJS with Webpack
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "JaosMrket.store" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "jaosmrket.store" ]
 
 jobs:
   build:
